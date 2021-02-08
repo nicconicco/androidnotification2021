@@ -1,4 +1,4 @@
-# androidnotification2021
+# AndroidNotification2021
 
 EN:
 This is a pocket to show how it works and to training skills.
