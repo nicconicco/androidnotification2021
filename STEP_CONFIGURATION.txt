@@ -1,0 +1,26 @@
+GENERATE SHA FIRST.
+
+C:\Program Files (x86)\Java\jre1.8.0_281\bin>keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+Enter keystore password:
+Alias name: androiddebugkey
+Creation date: Sep 8, 2020
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Tue Sep 08 09:56:54 BRT 2020 until: Thu Sep 01 09:56:54 BRT 2050
+Certificate fingerprints:
+         SHA1: 13:5F:A8:C6:1D:2D:8E:41:6D:7C:05:B4:FE:3B:F3:48:65:98:D5:39
+         SHA256: 23:7F:7D:43:0B:63:19:22:FC:3B:60:51:06:DB:A8:FF:76:D1:57:18:65:D9:D9:9D:0D:A0:5A:7D:DE:71:30:78
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1
+
+Warning:
+The certificate uses the SHA1withRSA signature algorithm which is considered a security risk. This algorithm will be disabled in a future update.
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore C:\Users\nicco\.android\debug.keystore -destkeystore C:\Users\nicco\.android\debug.keystore -deststoretype pkcs12".
+
+C:\Program Files (x86)\Java\jre1.8.0_281\bin>
+

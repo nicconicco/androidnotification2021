@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidNotification2021</string>
+    <string name="msg_token_fmt">Opa</string>
 </resources>
