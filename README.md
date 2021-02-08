@@ -1,6 +1,11 @@
 # AndroidNotification2021
+<h3>
 
-EN:
+```diff
++ EN:
+```
+
+</h3>
 This is a pocket to show how it works and to update skills in Firebase/Cloud Messaging.
 
 Just follow the steps in the folder steps with images and you will understand how to do the process.
@@ -20,8 +25,13 @@ Feel free to star if this help to make your day more easily.
 thanks.
 
 ------------------------
+<h3>
 
-BR:
+```diff
++ BR:
+```
+
+</h3>
 
 Criei esse repo apenas para estar me atualizando como criar uma notificacao no Android com o Firebase. 
 
