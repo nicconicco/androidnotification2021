@@ -1,7 +1,7 @@
 # AndroidNotification2021
 
 EN:
-This is a pocket to show how it works and to training skills.
+This is a pocket to show how it works and to update skills in Firebase/Cloud Messaging.
 
 Just follow the steps in the folder steps with images and you will understand how to do the process.
 
@@ -14,6 +14,10 @@ To generate keytool, read here:
 https://github.com/nicconicco/androidnotification2021/blob/master/STEP_CONFIGURATION.txt
 
 Dont worry my SHA is open because this will not be in use, just for study case.
+
+Feel free to star if this help to make your day more easily.
+
+thanks.
 
 ------------------------
 
